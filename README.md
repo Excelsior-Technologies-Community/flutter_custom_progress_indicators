@@ -8,7 +8,7 @@ Build modern progress UI with smooth animations, customizable colors, gradients,
 
 <div align="center">
 
-<img src="assets/progress_indicators.gif" width="200" alt="Custom Progress Indicators Demo">
+<img src="assets/progress_indicators.gif" width="150" alt="Custom Progress Indicators Demo">
 
 <br><br>
 
