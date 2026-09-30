@@ -80,6 +80,30 @@ Import the package into your Flutter project:
 ```dart
 import 'package:flutter_custom_progress_indicators/flutter_custom_progress_indicators.dart';
 ```
+## 🎬 Demo
+
+<p align="center">
+  <img src="assets/progress_indicators.gif" width="200" alt="Custom Progress Indicators Demo">
+</p>
+
+### Demo Includes
+
+* 🔵 Animated Linear Progress
+* 🟣 Circular Progress Indicator
+* 🌈 Gradient Linear Progress
+* 📊 Text + Percentage Overlay
+* 🎚️ Interactive Progress Slider
+* ⚡ Smooth Progress Animations
+* 🎨 Custom Colors and Gradients
+
+## 🌐 Live Demo
+
+<p align="center">
+  <a href="YOUR_DEMO_URL">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Open%20Demo-2ea44f?style=for-the-badge" alt="Live Demo">
+  </a>
+</p>
+
 
 ---
 
