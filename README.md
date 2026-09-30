@@ -5,22 +5,6 @@ A lightweight and customizable Flutter package for beautiful **animated linear, 
 Build modern progress UI with smooth animations, customizable colors, gradients, sizes, text overlays, and percentage indicators — with minimal code.
 
 ---
-<a href="https://pub.dev">
-  <img src="https://img.shields.io/badge/pub.dev-coming%20soon-blue?logo=dart" alt="pub.dev">
-</a>
-<a href="https://github.com">
-  <img src="https://img.shields.io/badge/Flutter-3.41.9-blue?logo=flutter" alt="Flutter">
-</a>
-<a href="https://github.com">
-  <img src="https://img.shields.io/badge/Dart-3.11.5-blue?logo=dart" alt="Dart">
-</a>
-<a href="LICENSE">
-  <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
-</a>
-
-</div>
-
----
 
 ## ✨ Features
 
