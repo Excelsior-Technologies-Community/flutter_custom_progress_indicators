@@ -86,16 +86,6 @@ import 'package:flutter_custom_progress_indicators/flutter_custom_progress_indic
   <img src="assets/progress_indicators.gif" width="200" alt="Custom Progress Indicators Demo">
 </p>
 
-## 🎬 Demo
-
-<p align="center">
-  <img
-    src="assets/progress_indicators.gif"
-    width="200"
-    alt="Custom Progress Indicators Demo"
-  >
-</p>
-
 ### Demo Includes
 
 * 🔵 Animated Linear Progress
